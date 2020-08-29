@@ -1,4 +1,4 @@
-# README
+# private-events
 
 Private Event template website built with Ruby on Rails.
 
